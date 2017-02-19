@@ -3,9 +3,9 @@ package com.jpinup;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-@Configuration
+//@Configuration
 public class ApplicationConfig {
-
+/*
 	@Bean
 	public String karan() {
 		return "Hello Mr. Kaw";
@@ -14,5 +14,5 @@ public class ApplicationConfig {
 	@Bean
 	public AnnotationAspectJPinupApplication.Employee empId1() {
 		return new AnnotationAspectJPinupApplication().new Employee(karan());
-	}
+	}*/
 }
